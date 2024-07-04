@@ -1,0 +1,67 @@
+Model for Backend 
+
+Header
+Profile Picture 
+Heading 
+Sub Heading 
+Description 
+About 
+Video Link 
+Heading 
+Description 
+Project stats 
+Experience 
+Projects 
+Clients 
+Skills 
+Skill Name 
+Percentage 
+Experience 
+Job Title 
+Company 
+Short Description 
+Start Date 
+End Date (if not given it means i am currently working here )
+Services
+Service Image 
+Service Title 
+Portfolio
+Portfolio Image 
+Portfolio Title 
+Description 
+Link (optional)
+Service Type: (will be selected from the services entered previously )
+Video (optional)
+Testimonials 
+Client Name 
+Company 
+Testimonial type (video/text)
+Video  
+Feedback  
+FAQs
+Service Type (if there is no service type about which user want to add FAQs then let user add service Type General)
+FAQ Title 
+FAQ Description 
+Contact Details 
+Heading 
+Description 
+Email  
+Phone Number (optional )
+Socials (do not allow the user to insert the same link twice)
+Social Media Platform Name
+Social Media Icon 
+Link 
+Contact Us 
+Name
+Email
+Company Name 
+Phone Number 
+Services 
+Budget Range 
+Timeline 
+File 
+Description 
+Freelance Platforms (do not allow user to insert same link twice )
+FP Name 
+FP Icon 
+FP Link 
